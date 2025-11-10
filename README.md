@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriar811" alt="shahriar811" /></a> </p>
 
-- 🔭 I’m currently working on **ML projects**
+- 🔭 I’m currently working on **AI/ML projects**
 
-- 🌱 I’m currently learning **Arduino based projects**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **mdshahriarhossain08@gmail.com**
 
