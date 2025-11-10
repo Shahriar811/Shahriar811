@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md.Shahriar Hossain</h1>
-<h3 align="center">I'm a passionate developer from bangladesh who loves building things with code. Currently working on improving my skills in Machine Learning and contributing to open-source projects.</h3>
+<h1 align="center">Hi 👋, I'm Md. Shahriar Hossain</h1>
+<h3 align="center">I'm a passionate developer from Bangladesh who loves building things with code. Currently working on improving my skills in Machine Learning and contributing to open-source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar811&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar811" /> </p>
 
